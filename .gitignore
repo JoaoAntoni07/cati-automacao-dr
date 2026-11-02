@@ -1,0 +1,14 @@
+# Variáveis de ambiente e chaves secretas
+.env
+*.env
+
+# Ambientes virtuais e pastas internas
+venv/
+__pycache__/
+*.py[cod]
+.crewai/
+
+# IDEs e editores
+.vscode/
+.idea/
+*.log
